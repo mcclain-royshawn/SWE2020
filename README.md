@@ -5,11 +5,11 @@ This system is created with the purpose to assist faculty with the development o
 
 Scope
 
-	The scope of this system is to assist Philander-Smith College faculty with advising students in which general education classes they should take. This system will provide students with an efficient schedule of general education classes to assist them in obtaining their degree.
+The scope of this system is to assist Philander-Smith College faculty with advising students in which general education classes they should take. This system will provide students with an efficient schedule of general education classes to assist them in obtaining their degree.
 
 Objectives
 
-	The system will prove successful if it is able to:
+The system will prove successful if it is able to:
 Generate a PDF with a student’s courses to be completed
 Not recommend courses that the student has already completed.
 Allow the faculty to select courses that they have already taken.
